@@ -1,0 +1,7026 @@
+[
+    {
+        "user": "user1",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user2",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user3",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user4",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user5",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user6",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user7",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user8",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user9",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user10",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user11",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user12",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user13",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user14",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user15",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user16",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user17",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user18",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user19",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user20",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user21",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user22",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user23",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user24",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user25",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user26",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user27",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user28",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user29",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user30",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user31",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user32",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user33",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user34",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user35",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user36",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user37",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user38",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user39",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user40",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user41",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user42",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user43",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user44",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user45",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user46",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user47",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user48",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user49",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user50",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user51",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user52",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user53",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user54",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user55",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user56",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user57",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user58",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user59",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user60",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user61",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user62",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user63",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user64",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user65",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user66",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user67",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user68",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user69",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user70",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user71",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user72",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user73",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user74",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user75",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user76",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user77",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user78",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user79",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user80",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user81",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user82",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user83",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user84",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user85",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user86",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user87",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user88",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user89",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user90",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user91",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user92",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user93",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user94",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user95",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user96",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user97",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user98",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user99",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user100",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user101",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user102",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user103",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user104",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user105",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user106",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user107",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user108",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user109",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user110",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user111",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user112",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user113",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user114",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user115",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user116",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user117",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user118",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user119",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user120",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user121",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user122",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user123",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user124",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user125",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user126",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user127",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user128",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user129",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user130",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user131",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user132",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user133",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user134",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user135",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user136",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user137",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user138",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user139",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user140",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user141",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user142",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user143",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user144",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user145",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user146",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user147",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user148",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user149",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user150",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user151",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user152",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user153",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user154",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user155",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user156",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user157",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user158",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user159",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user160",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user161",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user162",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user163",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user164",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user165",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user166",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user167",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user168",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user169",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user170",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user171",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user172",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user173",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user174",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user175",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user176",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user177",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user178",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user179",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user180",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user181",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user182",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user183",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user184",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user185",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user186",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user187",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user188",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user189",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user190",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user191",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user192",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user193",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user194",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user195",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user196",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user197",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user198",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user199",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user200",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user201",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user202",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user203",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user204",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user205",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user206",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user207",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user208",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user209",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user210",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user211",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user212",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user213",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user214",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user215",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user216",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user217",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user218",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user219",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user220",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user221",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user222",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user223",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user224",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user225",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user226",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user227",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user228",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user229",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user230",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user231",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user232",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user233",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user234",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user235",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user236",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user237",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user238",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user239",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user240",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user241",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user242",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user243",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user244",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user245",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user246",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user247",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user248",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user249",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user250",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user251",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user252",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user253",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user254",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user255",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user256",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user257",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user258",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user259",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user260",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user261",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user262",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user263",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user264",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user265",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user266",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user267",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user268",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user269",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user270",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user271",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user272",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user273",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user274",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user275",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user276",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user277",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user278",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user279",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user280",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user281",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user282",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user283",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user284",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user285",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user286",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user287",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user288",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user289",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user290",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user291",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user292",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user293",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user294",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user295",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user296",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user297",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user298",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user299",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user300",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user301",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user302",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user303",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user304",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user305",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user306",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user307",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user308",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user309",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user310",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user311",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user312",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user313",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user314",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user315",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user316",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user317",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user318",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user319",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user320",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user321",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user322",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user323",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user324",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user325",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user326",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user327",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user328",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user329",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user330",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user331",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user332",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user333",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user334",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user335",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user336",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user337",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user338",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user339",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user340",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user341",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user342",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user343",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user344",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user345",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user346",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user347",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user348",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user349",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user350",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user351",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user352",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user353",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user354",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user355",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user356",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user357",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user358",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user359",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user360",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user361",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user362",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user363",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user364",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user365",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user366",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user367",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user368",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user369",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user370",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user371",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user372",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user373",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user374",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user375",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user376",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user377",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user378",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user379",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user380",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user381",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user382",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user383",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user384",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user385",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user386",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user387",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user388",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user389",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user390",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user391",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user392",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user393",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user394",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user395",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user396",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user397",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user398",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user399",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user400",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user401",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user402",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user403",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user404",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user405",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user406",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user407",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user408",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user409",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user410",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user411",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user412",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user413",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user414",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user415",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user416",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user417",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user418",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user419",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user420",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user421",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user422",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user423",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user424",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user425",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user426",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user427",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user428",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user429",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user430",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user431",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user432",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user433",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user434",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user435",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user436",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user437",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user438",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user439",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user440",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user441",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user442",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user443",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user444",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user445",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user446",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user447",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user448",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user449",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user450",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user451",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user452",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user453",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user454",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user455",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user456",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user457",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user458",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user459",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user460",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user461",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user462",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user463",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user464",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user465",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user466",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user467",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user468",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user469",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user470",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user471",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user472",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user473",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user474",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user475",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user476",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user477",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user478",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user479",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user480",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user481",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user482",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user483",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user484",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user485",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user486",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user487",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user488",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user489",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user490",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user491",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user492",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user493",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user494",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user495",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user496",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user497",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user498",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user499",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user500",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user501",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user502",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user503",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user504",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user505",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user506",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user507",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user508",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user509",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user510",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user511",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user512",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user513",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user514",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user515",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user516",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user517",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user518",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user519",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user520",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user521",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user522",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user523",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user524",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user525",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user526",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user527",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user528",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user529",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user530",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user531",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user532",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user533",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user534",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user535",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user536",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user537",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user538",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user539",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user540",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user541",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user542",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user543",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user544",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user545",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user546",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user547",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user548",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user549",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user550",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user551",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user552",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user553",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user554",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user555",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user556",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user557",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user558",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user559",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user560",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user561",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user562",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user563",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user564",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user565",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user566",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user567",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user568",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user569",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user570",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user571",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user572",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user573",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user574",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user575",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user576",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user577",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user578",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user579",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user580",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user581",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user582",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user583",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user584",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user585",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user586",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user587",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user588",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user589",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user590",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user591",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user592",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user593",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user594",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user595",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user596",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user597",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user598",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user599",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user600",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user601",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user602",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user603",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user604",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user605",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user606",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user607",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user608",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user609",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user610",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user611",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user612",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user613",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user614",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user615",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user616",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user617",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user618",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user619",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user620",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user621",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user622",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user623",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user624",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user625",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user626",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user627",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user628",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user629",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user630",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user631",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user632",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user633",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user634",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user635",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user636",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user637",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user638",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user639",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user640",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user641",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user642",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user643",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user644",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user645",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user646",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user647",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user648",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user649",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user650",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user651",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user652",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user653",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user654",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user655",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user656",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user657",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user658",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user659",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user660",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user661",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user662",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user663",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user664",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user665",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user666",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user667",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user668",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user669",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user670",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user671",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user672",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user673",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user674",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user675",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user676",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user677",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user678",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user679",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user680",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user681",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user682",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user683",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user684",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user685",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user686",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user687",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user688",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user689",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user690",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user691",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user692",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user693",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user694",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user695",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user696",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user697",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user698",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user699",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user700",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user701",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user702",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user703",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user704",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user705",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user706",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user707",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user708",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user709",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user710",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user711",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user712",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user713",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user714",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user715",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user716",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user717",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user718",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user719",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user720",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user721",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user722",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user723",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user724",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user725",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user726",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user727",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user728",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user729",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user730",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user731",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user732",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user733",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user734",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user735",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user736",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user737",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user738",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user739",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user740",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user741",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user742",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user743",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user744",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user745",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user746",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user747",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user748",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user749",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user750",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user751",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user752",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user753",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user754",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user755",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user756",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user757",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user758",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user759",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user760",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user761",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user762",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user763",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user764",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user765",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user766",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user767",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user768",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user769",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user770",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user771",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user772",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user773",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user774",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user775",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user776",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user777",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user778",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user779",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user780",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user781",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user782",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user783",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user784",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user785",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user786",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user787",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user788",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user789",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user790",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user791",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user792",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user793",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user794",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user795",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user796",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user797",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user798",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user799",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user800",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user801",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user802",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user803",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user804",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user805",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user806",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user807",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user808",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user809",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user810",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user811",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user812",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user813",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user814",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user815",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user816",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user817",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user818",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user819",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user820",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user821",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user822",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user823",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user824",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user825",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user826",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user827",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user828",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user829",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user830",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user831",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user832",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user833",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user834",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user835",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user836",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user837",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user838",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user839",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user840",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user841",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user842",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user843",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user844",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user845",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user846",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user847",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user848",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user849",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user850",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user851",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user852",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user853",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user854",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user855",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user856",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user857",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user858",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user859",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user860",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user861",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user862",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user863",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user864",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user865",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user866",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user867",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user868",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user869",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user870",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user871",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user872",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user873",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user874",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user875",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user876",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user877",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user878",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user879",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user880",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user881",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user882",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user883",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user884",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user885",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user886",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user887",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user888",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user889",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user890",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user891",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user892",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user893",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user894",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user895",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user896",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user897",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user898",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user899",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user900",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user901",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user902",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user903",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user904",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user905",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user906",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user907",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user908",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user909",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user910",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user911",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user912",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user913",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user914",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user915",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user916",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user917",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user918",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user919",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user920",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user921",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user922",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user923",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user924",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user925",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user926",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user927",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user928",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user929",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user930",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user931",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user932",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user933",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user934",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user935",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user936",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user937",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user938",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user939",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user940",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user941",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user942",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user943",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user944",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user945",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user946",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user947",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user948",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user949",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user950",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user951",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user952",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user953",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user954",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user955",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user956",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user957",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user958",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user959",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user960",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user961",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user962",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user963",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user964",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user965",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user966",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user967",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user968",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user969",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user970",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user971",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user972",
+        "purchases": [
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user973",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user974",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user975",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user976",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user977",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user978",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user979",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user980",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user981",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user982",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user983",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user984",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user985",
+        "purchases": [
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user986",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user987",
+        "purchases": [
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user988",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user989",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user990",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user991",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user992",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user993",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user994",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user995",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user996",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user997",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user998",
+        "purchases": [
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user999",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user1000",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra"
+        ]
+    }
+]
