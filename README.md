@@ -10,6 +10,13 @@ This project aims to predict the next purchase a user might make based on their 
 - `requirements.txt`: List of dependencies required to run the scripts.
 
 ## Getting Started
+### Cloning the Repository
+First, clone the repository to your local machine:
+
+```bash
+
+git clone https://github.com/Pratham0405/GenZDealZ.ai.git
+```
 
 ### Prerequisites
 Ensure you have Python installed (version 3.6 or higher). Install the required dependencies using:
