@@ -50,4 +50,4 @@ python evaluate.py
 This script will load the trained model (model.h5) and evaluate it on the test data, printing the accuracy and loss metrics.
 
 
-## Thankyou
+## --Pratham
